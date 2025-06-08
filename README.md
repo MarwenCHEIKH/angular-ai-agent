@@ -1,9 +1,3 @@
-That's an excellent idea\! A good README file is crucial for any project, especially one that acts as an AI agent for Angular development. It should explain what the project is, how to set it up, how to use it, and its capabilities.
-
-Here's a draft for your `README.md` file, tailored to the `agent_orchestrator.py` script you provided. I've tried to make it clear and comprehensive.
-
------
-
 # AI Angular Agent
 
 This project provides an AI-powered agent designed to assist with Angular development tasks. Utilizing the Gemini API, this agent can understand natural language commands and execute relevant Angular CLI commands, interact with the file system, and even manage the `ng serve` development server.
